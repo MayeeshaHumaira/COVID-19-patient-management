@@ -1,5 +1,5 @@
 # COVID-19-patient-management
-This is my 4th year 1st semester's project using PL/SQL of Oracle. In this project there were two sites one using my PC and another was created using VMware. the name site_link wae given to the VMware site. Following are the tasks that were implemented in this project:
+This is my 4th year 1st semester's project using PL/SQL of Oracle. In this project there were two sites one using my PC(server) and another was created using VMware. the name site_link wae given to the VMware site. Following are the tasks that were implemented in this project:
 1) At Host(PC)-
     i) patient can tate appoinment after which they are ask to give test sample at site_link for COVID test.
     ii) After the test patient can take doctos appoinment it test result is positive. Patients can only take appoinment is a any doctor is free.
