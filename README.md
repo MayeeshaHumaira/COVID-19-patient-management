@@ -8,7 +8,7 @@ At Host(PC):
    - List of these Sick, Recovered, or Expired patients were then transferred to site_link. 
    - In the HOST procedure, function, trigger, exception cursor, conditional statements were utilized.
 
-At site_link- 
+At site_link: 
    - Test results of patients were inserted. 
    - if the patient is already in TEST table then only updates test result 
    - Display list of Recovered patient and their blood type to sick patients looking for plasma 
